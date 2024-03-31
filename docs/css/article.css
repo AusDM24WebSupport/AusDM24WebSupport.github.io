@@ -1,0 +1,106 @@
+
+
+article {
+    padding: 0px 20px;
+    line-height: 1.7em;
+    color: #303030;
+}
+
+
+article {
+    font-family: Open Sans,Arial,sans-serif;
+    /* font-family: 'Verdana', Helvetica, Arial, Lucida, sans-serif; */
+    font-weight: 400;
+    font-size: 17px;
+}
+
+article h2,
+article h3,
+article h4,
+article h5 {
+    color: #00457d;
+    margin: 20px 0px;
+}
+
+article h1{
+    color: #00457d;
+    font-size: 30px;
+    margin: 30px 0px;
+    font-family: 'Verdana', Helvetica, Arial, Lucida, sans-serif;
+}
+
+article ul{
+    margin: 15px 0px;
+    padding-left: 30px;
+    list-style: inside;
+}
+
+article li{
+    margin: 10px 0px;
+}
+
+
+article p{
+    margin: 15px auto;
+}
+
+article a{
+    color: #3da8ff;
+    text-decoration: none;
+}
+
+article img{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 10px auto;
+    max-width: 100%;
+    
+}
+
+article .card{
+    /* background-color: rgb(207, 225, 255); */
+    border-radius: 10%;
+    padding: 25px;
+    margin: 20px auto;
+}
+
+article .card h1,
+article .card h2,
+article .card h3{
+    text-align: center;
+}
+
+article .card h4,
+article .card h5{
+    text-align: left;
+    font-size: larger;
+    margin-bottom: 0px;
+}
+
+article .card img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+article .card .images{
+    text-align: center;
+}
+
+article .card .images img{
+    left: auto;
+    transform: none;
+    margin: 0px 10px;
+}
+
+article table {
+    border-collapse: collapse; /* Collapse border spacing */
+}
+
+article table th, article table td {
+    border: 1px solid #89858582; /* Add borders to table cells */
+    padding: 8px; /* Add padding for better spacing */
+}
+

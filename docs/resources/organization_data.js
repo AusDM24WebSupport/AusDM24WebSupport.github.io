@@ -1,33 +1,58 @@
 const organizationData = [
-    {"groupName":"Steering Committee Chairs",
-    "groupItems":[
-        ["Simeon Simoff","Western Sydney University"],
-        ["Graham Williams","The Australian National University"]
-    ]},
-    {"groupName":"General Chair",
+    {"groupName":"Steering Committee Co-Chairs",
     "groupItems":[
         ["Yun Sing Koh","The University of Auckland"],
+        ["Richi Nayak","Queensland University of Technology"],
+        ["Yanchang Zhao","Data61, CSIRO"]
     ]},
-    {"groupName":"PC Chairs – Research",
+    {"groupName":"General Co-Chairs ",
     "groupItems":[
-        ["Diana Benavides Prado","The University Of Auckland"],
-        ["Sarah Monazam Erfani","The University Of Melbourne"],
+        ["Yanchang Zhao","Data61, CSIRO"],
+        ["Yee Ling Boo","RMIT University"],
+        ["Diana Benavides Prado","The University of Auckland"],
     ]},
-    {"groupName":"PC Chairs – Application",
+    {"groupName":"Program Chairs – Research ",
     "groupItems":[
-        ["Philippe Fournier-Viger","Shenzhen University"],
+        ["Thirunavukarasu Balasubramaniam","Queensland University of Technology"],
+        ["Kewen Liao","Australian Catholic University"],
+    ]},
+    {"groupName":"Program Chairs – Application ",
+    "groupItems":[
+        ["Varvara Vetrora","University of Canterbury"],
     ]},
     {"groupName":"Industry Chair",
     "groupItems":[
-        ["Shivonne Londt","Amazon Web Services (AWS)"],
+        ["Khanh Luong","Charles Sturt University"],
     ]},
-    {"groupName":"Tutorial and Workshop Chair",
+    {"groupName":"Tutorial/ Workshop Chairs ",
     "groupItems":[
-        ["Andrew Lensen","Victoria University of Wellington"],
+        ["Robert Shen","RACE Hub, <br> RMIT University"],
+        ["Su Nguyen","RMIT University"],
     ]},
-    {"groupName":"Diversity, Equity, and Inclusion Chair",
+    {"groupName":"Doctoral Consortium Chair",
+    "groupItems":[
+        ["Weijia Zhang","University of Newcastle"],
+    ]},
+    {"groupName":"Diversity, Equity and Inclusion (DEI) Chair",
     "groupItems":[
         ["Richi Nayak","Queensland University of Technology"],
+    ]},
+    {"groupName":"Publication Chair",
+    "groupItems":[
+        ["Yee Ling Boo","RMIT University"],
+    ]},
+    {"groupName":"Web Chair",
+    "groupItems":[
+        ["Jiaheng Wei","RMIT University"],
+    ]},
+    {"groupName":"Publicity Chairs",
+    "groupItems":[
+        ["Asara Senaratne","University of South Australia"],
+        ["Hemachandran Kannan","Woxsen University, India"],
+    ]},
+    {"groupName":"Local Organising Chair",
+    "groupItems":[
+        ["Araz Nasirian","RMIT University"],
     ]},
 ]
     

@@ -80,8 +80,8 @@ class TemplateOrganizationItem extends HTMLElement {
         const infoElem = this.shadow.querySelector('[info]');
 
         profileImg.src = profileSrc;
-        nameElem.textContent = name;
-        infoElem.textContent = info;
+        nameElem.innerHTML = name;
+        infoElem.innerHTML = info;
     }
 
 }

@@ -104,3 +104,9 @@ article table th, article table td {
     padding: 8px; /* Add padding for better spacing */
 }
 
+article blockquote{
+    text-align: center;
+    font-style: italic;
+    padding: 0px 5px;
+    color: #666;
+}

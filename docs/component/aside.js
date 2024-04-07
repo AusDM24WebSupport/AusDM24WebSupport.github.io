@@ -27,11 +27,9 @@ templateAsideDoc.documentElement.innerHTML = `
                 <li>Camera-ready: 22 Sept 24</li>
                 <li>Tutorial/Workshop submission: 18 Aug 24</li>
                 <li>Tutorial/Workshop notiﬁcation: 15 Sept 24</li>
-                <li>Doctoral Consortium Submission: 1 Sept 24</li>
-                <li>Doctoral Consortium Notification: 29 Sept 24</li>
-                <li>Author Registration: 27 Oct 24</li>
-                
-                <li>Author Registration: 8 Oct 23</li>
+                <!--<li>Doctoral Consortium Submission: 1 Sept 24</li>
+                <li>Doctoral Consortium Notification: 29 Sept 24</li>--!>
+                <li>Author Registration: 22 Sept 24</li>
             </ul>
         </div>
     </aside>

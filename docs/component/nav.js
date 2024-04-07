@@ -34,9 +34,9 @@ templateNavDoc.documentElement.innerHTML = `
                 <!--<li><a href="./AI Innovation Day.html">AI Innovation Day</a></li>--!>
                 <!--<li><a href="#programme">Green & Responsible AI Day</a></li>--!>
                 <!--<li><a href="#programme">Generative AI Day</a></li>--!>
-                <li><a href="./Organizing Committee.html">Organizing Committee  <i class="arrow down"></i> </a>
+                <li><a href="./Organizing Committee.html">Organising Committee  <i class="arrow down"></i> </a>
                     <ul class="submenu">
-                        <li><a href="./Organizing Committee.html">Organizing Committee</a></li>
+                        <li><a href="./Organizing Committee.html">Organising Committee</a></li>
                         <li><a href="./Program Committee.html">Program Committee</a></li>
                     </ul>
                 </li>

@@ -17,27 +17,27 @@ templateNavDoc.documentElement.innerHTML = `
                 <li><a href="./Call for Papers.html">Call for Papers <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Call for Papers.html">Call for Papers</a></li>
-                        <li><a href="./Call for Tutorials and Workshops.html">Call for Tutorials and Workshops</a></li>
+                        <!--<li><a href="./Call for Tutorials and Workshops.html">Call for Tutorials and Workshops</a></li>
                         <li><a href="./Call for Doctoral Consortium.html">Call for Doctoral Consortium</a></li>
-                        <li><a href="./Special Sessions.html">Special Sessions</a></li>
+                        <li><a href="./Special Sessions.html">Special Sessions</a></li>--!>
                         <li><a href="./Submissions.html">Submissions</a></li>
                     </ul>
                 </li>
-                <li><a href="./Programme Overview.html">Programme <i class="arrow down"></i> </a>
+                <!--<li><a href="./Programme Overview.html">Programme <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Programme Overview.html">Programme Overview</a></li>
-                        <!--<li><a href="./Accepted Papers.html">Accepted Papers</a></li>--!>
+                        <li><a href="./Accepted Papers.html">Accepted Papers</a></li>
                         <li><a href="./Keynote Sessions.html">Keynote Sessions</a></li>
                         <li><a href="./Tutorials.html">Tutorials</a></li>
                     </ul>
-                </li>
+                </li>-->
                 <!--<li><a href="./AI Innovation Day.html">AI Innovation Day</a></li>--!>
                 <!--<li><a href="#programme">Green & Responsible AI Day</a></li>--!>
                 <!--<li><a href="#programme">Generative AI Day</a></li>--!>
                 <li><a href="./Organizing Committee.html">Organising Committee  <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Organizing Committee.html">Organising Committee</a></li>
-                        <li><a href="./Program Committee.html">Program Committee</a></li>
+                        <!--<li><a href="./Program Committee.html">Program Committee</a></li>-->
                     </ul>
                 </li>
                 <li><a href="./Venue.html">Attending <i class="arrow down"></i> </a>
@@ -46,7 +46,7 @@ templateNavDoc.documentElement.innerHTML = `
                         <!--<li><a href="./Accommodation">Accommodation</a></li>--!>
                     </ul>
                 </li>
-                <li><a href="./Registration.html">Registration</a></li>
+                <!--<li><a href="./Registration.html">Registration</a></li>-->
                 <li><a href="./Sponsorship.html">Sponsorship</a></li>
                 <!--<li><a href="#programme">Call For Papers: Special Issue</a></li>--!>
                 <!--<li><a href="#programme">Gallery</a></li>--!>

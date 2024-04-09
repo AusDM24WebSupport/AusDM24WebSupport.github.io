@@ -18,13 +18,13 @@ const organizationData = [
     ]},
     {"groupName":"Program Chairs – Application ",
     "groupItems":[
-        ["Varvara Vetrora","University of Canterbury"],
+        ["Varvara Vetrova","University of Canterbury"],
     ]},
     {"groupName":"Industry Chair",
     "groupItems":[
         ["Khanh Luong","Charles Sturt University"],
     ]},
-    {"groupName":"Tutorial/ Workshop Chairs ",
+    {"groupName":"Tutorial / Workshop Chairs ",
     "groupItems":[
         ["Robert Shen","RACE Hub, <br> RMIT University"],
         ["Su Nguyen","RMIT University"],
@@ -32,11 +32,12 @@ const organizationData = [
     {"groupName":"Doctoral Consortium Chair",
     "groupItems":[
         ["Weijia Zhang","University of Newcastle"],
+        ["Pei-Wei Tsai","Swinburne University of Technology"]
     ]},
-    {"groupName":"Diversity, Equity and Inclusion (DEI) Chair",
-    "groupItems":[
-        ["Richi Nayak","Queensland University of Technology"],
-    ]},
+    // {"groupName":"Diversity, Equity and Inclusion (DEI) Chair",
+    // "groupItems":[
+    //     ["Richi Nayak","Queensland University of Technology"],
+    // ]},
     {"groupName":"Publication Chair",
     "groupItems":[
         ["Yee Ling Boo","RMIT University"],

@@ -58,3 +58,7 @@ main {
         height: 80px;
     }
 }
+
+.small-title-background-image {
+    background-image: url('../media/RMIT80Night.jpg');
+}

@@ -164,6 +164,10 @@ header {
     font-style: normal;
 }
 
+.title h1 span{
+    text-transform: none;
+}
+
 .title h3{
     margin: 20px;
     font-size: 30px;

@@ -20,7 +20,11 @@ templateFooterDoc.documentElement.innerHTML = `
 
             <div class="foot-info">
                 <div>
-                    <a>The University of RMIT</a> | <a>Accessibility</a> | <a>Copyright</a> | <a>Privacy</a> | <a>Disclaimer</a>
+                    <a href='https://www.rmit.edu.au/about'>RMIT University</a> | 
+                    <a href="https://www.rmit.edu.au/about/our-values/sustainability/sustainable-buildings/accessibility-on-campus">Accessibility</a> | 
+                    <a href="https://policies.rmit.edu.au/document/view.php?id=23">Copyright</a> | 
+                    <a href="https://www.rmit.edu.au/utilities/privacy">Privacy</a> | 
+                    <a href="https://www.rmit.edu.au/utilities/terms">Terms</a>
                 </div>
             </div>
             
@@ -91,6 +95,10 @@ footer {
     padding: auto;
     height: 30px;
     font-weight: bold;
+}
+.foot-info a{
+    color: #fff;
+    text-decoration: none;
 }
 `   
 

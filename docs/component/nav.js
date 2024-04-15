@@ -113,10 +113,11 @@ nav {
     margin: 0;
     padding: 0;
     text-align: center;
+    font-size: 20px;
 }
 
 #navbar li {
-    display: inline-block; /* Or use 'inline-block' for block level items */
+    display: inline-block;
     margin: auto;
     padding: 5px;
     color: #fff;

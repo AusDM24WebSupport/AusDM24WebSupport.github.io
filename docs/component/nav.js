@@ -19,8 +19,8 @@ templateNavDoc.documentElement.innerHTML = `
                         <li><a href="./Call for Papers.html">Call for Papers</a></li>
                         <!--<li><a href="./Call for Tutorials and Workshops.html">Call for Tutorials and Workshops</a></li>
                         <li><a href="./Call for Doctoral Consortium.html">Call for Doctoral Consortium</a></li>
-                        <li><a href="./Special Sessions.html">Special Sessions</a></li>--!>
-                        <li><a href="./Submissions.html">Submissions</a></li>
+                        <li><a href="./Special Sessions.html">Special Sessions</a></li>
+                        <li><a href="./Submissions.html">Paper Format and Submissions</a></li>--!>
                     </ul>
                 </li>
                 <!--<li><a href="./Programme Overview.html">Programme <i class="arrow down"></i> </a>
@@ -47,7 +47,7 @@ templateNavDoc.documentElement.innerHTML = `
                     </ul>
                 </li>
                 <!--<li><a href="./Registration.html">Registration</a></li>-->
-                <li><a href="./Sponsorship.html">Sponsorship</a></li>
+                <!--<li><a href="./Sponsorship.html">Sponsorship</a></li>-->
                 <!--<li><a href="#programme">Call For Papers: Special Issue</a></li>--!>
                 <!--<li><a href="#programme">Gallery</a></li>--!>
                 <!-- Add additional navbar items here -->

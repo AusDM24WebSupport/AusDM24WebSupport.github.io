@@ -1,4 +1,4 @@
-# Submissions
+# Paper Format and Submissions
 
 We invite three types of submissions for AusDM’23:
 

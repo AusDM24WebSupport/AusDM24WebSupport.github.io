@@ -31,12 +31,12 @@ article h1{
 
 article ul{
     margin: 15px 0px;
-    padding-left: 30px;
-    list-style: inside;
+    padding-left: 40px;
+    list-style:disc;
 }
 
 article li{
-    margin: 10px 0px;
+    margin: 3px 0px;
 }
 
 

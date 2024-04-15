@@ -7,16 +7,16 @@ const organizationData = [
     ]},
     {"groupName":"General Co-Chairs ",
     "groupItems":[
-        ["Yanchang Zhao","Data61, CSIRO"],
         ["Yee Ling Boo","RMIT University"],
         ["Diana Benavides Prado","The University of Auckland"],
+        ["Yanchang Zhao","Data61, CSIRO"],
     ]},
     {"groupName":"Program Chairs – Research ",
     "groupItems":[
         ["Thirunavukarasu Balasubramaniam","Queensland University of Technology"],
         ["Kewen Liao","Australian Catholic University"],
     ]},
-    {"groupName":"Program Chairs – Application ",
+    {"groupName":"Program Chair – Application ",
     "groupItems":[
         ["Varvara Vetrova","University of Canterbury"],
     ]},
@@ -29,7 +29,7 @@ const organizationData = [
         ["Robert Shen","RACE Hub, <br> RMIT University"],
         ["Su Nguyen","RMIT University"],
     ]},
-    {"groupName":"Doctoral Consortium Chair",
+    {"groupName":"Doctoral Consortium Chairs",
     "groupItems":[
         ["Weijia Zhang","University of Newcastle"],
         ["Pei-Wei Tsai","Swinburne University of Technology"]

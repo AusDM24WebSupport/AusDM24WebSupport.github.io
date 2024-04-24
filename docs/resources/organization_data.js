@@ -19,6 +19,7 @@ const organizationData = [
     {"groupName":"Program Chair – Application ",
     "groupItems":[
         ["Varvara Vetrova","University of Canterbury"],
+        ["Diana Benavides Prado","The University of Auckland"],
     ]},
     {"groupName":"Industry Chair",
     "groupItems":[

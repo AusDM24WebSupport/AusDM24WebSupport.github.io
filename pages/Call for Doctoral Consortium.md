@@ -1,19 +1,96 @@
-# Call for Doctoral Consortium 
+# Call For Participation: AusDM24 Doctoral Consortium
 
-The Australasian Data Science and Machine Learning Conference has established itself as the premier Australasian meeting for both practitioners and researchers in data mining. It is devoted to the art and science of intelligent analysis of (usually big) data sets for meaningful (and previously unknown) insights. This conference will enable the sharing and learning of research and progress in the local context and breakthroughs in data mining algorithms and their applications across all industries. 
+The doctoral consortium (DC) of AusDM24 aims to provide Early Career Researchers (ECRs) and PhD students with the opportunity to meet, receive feedback on their research from established experts, and interact closely with their peers. Beyond valuable feedback, the consortium offers participants new contacts and great networking opportunities.
 
-The doctoral consortium (DC) of AusDM 2023 is aimed at providing Ph.D. students at all stages with the opportunity to receive feedback on their research (from established researchers in their fields), and interact closely with other researchers and Ph.D. students. Apart from extra feedback, we hope to provide students with new contacts and professional networking opportunities. 
+We do not expect you to have addressed all research questions, nor expect you to have completed the PhD. However, you should show an understanding of your research area and have a clear plan for addressing your research goals. This consortium is ideal for discussing your research questions with experienced researchers and fellow students to receive informed feedback.
 
-We do not expect you to have addressed all research questions, nor expect you to have completed the Ph.D. However, we expect you to show an understanding of your research area and to have a clear plan towards addressing your research goals. This symposium is the best place to discuss these research questions with experienced researchers and fellow students to receive informed feedback. 
+PhDs and ECRs with an accepted paper at the main AusDM2024 conference are also encouraged to attend the DC session. The event is planned to be an in-person event in RMIT, Melbourne, Australia.
 
-Research students who have an accepted main conference paper are also encouraged to submit to the DC session. The conference is planned to be an in-person event in Auckland, New Zealand. Participants from Australia and New Zealand are encouraged to attend it personally. There will be an option for overseas participants to attend the conference virtually. 
+# Invited Speakers:
 
-# Submission Process
+This year’s Doctoral Consortium offers an exceptional platform for ECRs and PhDs to engage in networking and peer learning opportunities. In conjunction with the main conference, we are pleased to announce the participation of distinguished Keynote Speakers from both academia and industry. Our esteemed guests will provide invaluable insights, sharing their journeys from Ph.D. to ECR, discussing the role of women in data science and artificial intelligence, and offering guidance on navigating a successful career in industry post-Ph.D.
 
-Submission Requirements: 
+:::: speakers
 
-- A 1-2 paged document with student information and a summary of the student’s research.  
-- Student’s information should include the student’s name, email address, homepage, university affiliation, Ph.D. (or other Postgraduate level research degrees) start date, expected graduation date, and name and email of Ph.D. supervisor(s).
+::: speaker
 
- 
-The electronic submission must be in PDF format only and made through the AusDM Easychair link here. The deadline for proposal submissions is the 30th of September 2023. We will notify the successful applicants by the 21st of October 2023.
+![Feng Liu](./media/Speech/DC/Feng%20Liu.jpg)
+
+### Doctor Feng Liu
+
+##### The University of Melbourne, Australia
+
+:::
+
+::: speaker
+
+![Yue Lin](./media/Speech/DC/Yue%20Lin.jpg)
+
+### Doctor Yue Lin
+
+##### The University of Newcastle, Australia
+
+:::
+
+::: speaker
+
+![Tahereh Pourhabibi](./media/Speech/DC/Tahereh%20Pourhabibi.jpg)
+
+### Doctor Tahereh Pourhabibi
+
+##### intelia, Australia
+
+:::
+
+
+::::
+
+
+# Submission Guidelines
+
+Submissions should be at most 2 pages long plus a possible 1 page only for references and prepared with the [**Word/LaTeX template**](https://drive.google.com/file/d/1148bgY2oEQvJ83zKrEtAnMYobQ4g7ZOG/view?usp=sharing). The submission should include:
+
+- The title of the PhD proposal, along with the author and their supervisor’s name and institution (The first author must be a PhD student)
+
+- The problem definitions, motivations, and novelties
+
+- The current development and related work
+
+- Your proposed approach and methodology, and the significance
+
+- The current results and future work of your research
+
+- Expected study contributions to research and practice
+
+The proposal must be submitted in PDF format using the AusDM EasyChair System.
+
+::: link
+
+The submission Link is not available now.
+
+:::
+
+
+# Publication
+
+Selected submissions will be invited to submit their fully developed manuscripts to [Data Science and Engineering](https://link.springer.com/journal/41019), Scimago Q1 journal published by Springer, for expedited publication in 2025.
+
+# Important Dates 
+
+- Submission deadline: 18 August 2024
+
+- Notification of Acceptance:15 September 2024 
+  
+- Consortium date: 27 November 2024 (tentative)
+
+- Deadline for submissions invited to Data Science and Engineering: 30 April 202
+
+All accepted proposals are required to be presented at the Doctoral Consortium.
+
+# Contact Us
+
+If you have any questions regarding the submission process, please email the following Doctoral Consortium Chairs via [ausdm2024@googlegroups.com](mailto:ausdm2024@googlegroups.com) and include "AusDM24 Doctoral Consortium" in the subject line.
+
+- Weijia Zhang, University of Newcastle, Australia
+
+- Pei-Wei Tsai, Swinburne University of Technology, Australia

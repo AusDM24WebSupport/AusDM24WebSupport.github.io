@@ -73,7 +73,7 @@ The submission Link is not available now.
 
 # Publication
 
-Selected submissions will be invited to submit their fully developed manuscripts to [Data Science and Engineering](https://link.springer.com/journal/41019), Scimago Q1 journal published by Springer, for expedited publication in 2025.
+Selected submissions will be invited to submit their fully developed manuscripts to [Data Science and Engineering](https://link.springer.com/journal/41019), Scimago Q1 journal published by Springer, for expedited publication in 2025. Please stay tuned for the invitation email.
 
 # Important Dates 
 
@@ -82,8 +82,6 @@ Selected submissions will be invited to submit their fully developed manuscripts
 - Notification of Acceptance:15 September 2024 
   
 - Consortium date: 27 November 2024 (tentative)
-
-- Deadline for submissions invited to Data Science and Engineering: 30 April 202
 
 All accepted proposals are required to be presented at the Doctoral Consortium.
 

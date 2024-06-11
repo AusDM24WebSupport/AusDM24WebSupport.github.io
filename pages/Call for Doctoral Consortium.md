@@ -50,7 +50,11 @@ This year’s Doctoral Consortium offers an exceptional platform for ECRs and Ph
 
 Submissions should be at most 2 pages long plus a possible 1 page only for references and prepared with the [**Word/LaTeX template**](https://drive.google.com/file/d/1148bgY2oEQvJ83zKrEtAnMYobQ4g7ZOG/view?usp=sharing). The submission should include:
 
-- The title of the PhD proposal, along with the author and their supervisor’s name and institution (The first author must be a PhD student)
+- Title of PhD proposal
+
+- Name of first author (must be PhD student) 
+
+- Name(s) of other co-author(s) (could be ECR(s) and/or supervisor(s))
 
 - The problem definitions, motivations, and novelties
 
@@ -66,7 +70,9 @@ The proposal must be submitted in PDF format using the AusDM EasyChair System.
 
 ::: link
 
-The submission Link is not available now.
+The Submission Link is [HERE](https://easychair.org/conferences/?conf=ausdm24).
+
+Or copy this to your browser: https://easychair.org/conferences/?conf=ausdm24
 
 :::
 

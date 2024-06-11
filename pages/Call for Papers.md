@@ -30,6 +30,15 @@ AusDM’24 invites contributions addressing current research in Data Science and
 
 # Submissions
 
+::: link
+
+The Submission Link is [HERE](https://easychair.org/conferences/?conf=ausdm24).
+
+Or copy this to your browser: https://easychair.org/conferences/?conf=ausdm24
+
+:::
+
+
 AusDM’24 proceedings will be published by Springer Communications in Computer and Information Science (CCIS) and made available in due course. The previous AusDM proceedings on SpringerLink is available [here](https://link.springer.com/conference/ausdm).
 
 We invite three types of submissions for AusDM’24:

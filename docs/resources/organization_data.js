@@ -49,7 +49,7 @@ const organizationData = [
     ]},
     {"groupName":"Publicity Chairs",
     "groupItems":[
-        ["Asara Senaratne","University of South Australia"],
+        ["Asara Senaratne","Flinders University"],
         ["Hemachandran Kannan","Woxsen University, India"],
     ]},
     {"groupName":"Local Organising Chair",

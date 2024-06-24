@@ -24,9 +24,9 @@ This year’s Doctoral Consortium offers an exceptional platform for ECRs and Ph
 
 ::: speaker
 
-![Yue Lin](./media/Speech/DC/Yue%20Lin.jpg)
+![Lin Yue](./media/Speech/DC/Yue%20Lin.jpg)
 
-### Doctor Yue Lin
+### Doctor Lin Yue
 
 ##### The University of Newcastle, Australia
 

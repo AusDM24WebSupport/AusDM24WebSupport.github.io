@@ -43,7 +43,7 @@ AusDM’24 proceedings will be published by Springer Communications in Computer 
 
 We invite three types of submissions for AusDM’24:
 
-- **Research Track:** Academic submissions reporting on new algorithms, novel approaches and research progress, with a paper length of between 8 and 15 pages in Springer CCIS style, as detailed on conference website
+- **Research Track:** Academic submissions reporting on new algorithms, novel approaches and research progress, with a paper length of between 8 and 15 pages in Springer CCIS style, as detailed on conference website.
 - **Application Track:** Submissions reporting on authentic and practical applications, implementations and experiences or practices. Submissions in this category can be between 6 and 15 pages in Springer CCIS style, as detailed on conference website.
 - **Industry Showcase Track:** Submissions from governments and industry sectors on solutions that have raised profits, reduced costs and/or transformed policy and/or business outcomes/ models can be made in this track. Submissions to this category should be a 1-page extended abstract. Please note that this track is presentation only, without publication in conference proceedings. For publication of your papers, please submit them to the above Application Track.
 

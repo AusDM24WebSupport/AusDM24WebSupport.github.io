@@ -58,6 +58,14 @@ article img{
     
 }
 
+article .images{
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: space-around;
+}
+
 article .card{
     /* background-color: rgb(207, 225, 255); */
     border-radius: 10%;

@@ -21,15 +21,15 @@ templateAsideDoc.documentElement.innerHTML = `
         <div id="Keydates">
             <h4>Important Dates (AoE 11.59pm)</h4>
             <ul>
-                <li>Abstract submission: 4 Aug 24</li>
-                <li>Paper submission: 11 Aug 24</li>
-                <li>Paper notiﬁcation: 8 Sept 24</li>
-                <li>Camera-ready: 22 Sept 24</li>
+                <li>Abstract submission: 25 Aug 24</li>
+                <li>Paper submission: 1 Sep 24</li>
+                <li>Paper notiﬁcation: TBC</li>
+                <li>Camera-ready: TBC</li>
                 <!--<li>Tutorial/Workshop submission: 18 Aug 24</li>
                 <li>Tutorial/Workshop notiﬁcation: 15 Sept 24</li>
                 <li>Doctoral Consortium Submission: 1 Sept 24</li>
                 <li>Doctoral Consortium Notification: 29 Sept 24</li>--!>
-                <li>Author Registration: 22 Sept 24</li>
+                <li>Author Registration: TBC</li>
             </ul>
         </div>
     </aside>

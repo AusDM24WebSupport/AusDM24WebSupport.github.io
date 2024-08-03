@@ -57,9 +57,9 @@ A selected number of best papers will be invited for a submission to AusDM Speci
 
 # Important Dates (AoE, 11.59pm)
 
-- Abstract submission: 4 Aug 24
-- Paper submission: 11 Aug 24
-- Paper notiﬁcation: 8 Sept 24
-- Camera-ready: 22 Sept 24
-- Author Registration: 22 Sept 24 
+- Abstract submission: 4 Aug 24, 25 Aug 24
+- Paper submission: 11 Aug 24, 1 Sep 24
+- Paper notiﬁcation: 8 Sept 24 (TBC)
+- Camera-ready: 22 Sept 24 (TBC)
+- Author Registration: 22 Sept 24 (TBC)
 - Conference dates: 25 to 27 Nov 24

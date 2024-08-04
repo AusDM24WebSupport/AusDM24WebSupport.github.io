@@ -23,13 +23,13 @@ templateAsideDoc.documentElement.innerHTML = `
             <ul>
                 <li>Abstract submission: 25 Aug 24</li>
                 <li>Paper submission: 1 Sep 24</li>
-                <li>Paper notiﬁcation: TBC</li>
-                <li>Camera-ready: TBC</li>
+                <li>Paper notiﬁcation: 22 Sep 24</li>
+                <li>Camera-ready: 30 Sep 24</li>
                 <!--<li>Tutorial/Workshop submission: 18 Aug 24</li>
                 <li>Tutorial/Workshop notiﬁcation: 15 Sept 24</li>
                 <li>Doctoral Consortium Submission: 1 Sept 24</li>
                 <li>Doctoral Consortium Notification: 29 Sept 24</li>--!>
-                <li>Author Registration: TBC</li>
+                <li>Author Registration: 30 Sep 24</li>
             </ul>
         </div>
     </aside>

@@ -16,7 +16,7 @@ const organizationData = [
         ["Thirunavukarasu Balasubramaniam","Queensland University of Technology"],
         ["Kewen Liao","Australian Catholic University"],
     ]},
-    {"groupName":"Program Chair – Application ",
+    {"groupName":"Program Chairs – Application ",
     "groupItems":[
         ["Varvara Vetrova","University of Canterbury"],
         ["Diana Benavides Prado","The University of Auckland"],
@@ -55,6 +55,11 @@ const organizationData = [
     {"groupName":"Local Organising Chair",
     "groupItems":[
         ["Araz Nasirian","RMIT University"],
+        ["Lin Li","RMIT University"]
+    ]},
+    {"groupName":"Sponsorship Chair",
+    "groupItems":[
+        ["Robert Shen","RACE Hub, <br> RMIT University"]
     ]},
 ]
     

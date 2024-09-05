@@ -52,7 +52,7 @@ const organizationData = [
         ["Asara Senaratne","Flinders University"],
         ["Hemachandran Kannan","Woxsen University, India"],
     ]},
-    {"groupName":"Local Organising Chair",
+    {"groupName":"Local Organising Chairs",
     "groupItems":[
         ["Araz Nasirian","RMIT University"],
         ["Lin Li","RMIT University"]

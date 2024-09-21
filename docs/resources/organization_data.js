@@ -47,10 +47,9 @@ const organizationData = [
     "groupItems":[
         ["Jiaheng Wei","RMIT University"],
     ]},
-    {"groupName":"Publicity Chairs",
+    {"groupName":"Publicity Chair",
     "groupItems":[
-        ["Asara Senaratne","Flinders University"],
-        ["Hemachandran Kannan","Woxsen University, India"],
+        ["Asara Senaratne","Flinders University"]
     ]},
     {"groupName":"Local Organising Chairs",
     "groupItems":[

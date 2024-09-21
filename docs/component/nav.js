@@ -46,7 +46,7 @@ templateNavDoc.documentElement.innerHTML = `
                         <!--<li><a href="./Accommodation">Accommodation</a></li>--!>
                     </ul>
                 </li>
-                <!--<li><a href="./Registration.html">Registration</a></li>-->
+                <li><a href="./Registration.html">Registration</a></li>
                 <!--<li><a href="./Sponsorship.html">Sponsorship</a></li>-->
                 <!--<li><a href="#programme">Call For Papers: Special Issue</a></li>--!>
                 <!--<li><a href="#programme">Gallery</a></li>--!>

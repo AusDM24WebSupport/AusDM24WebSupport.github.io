@@ -23,7 +23,7 @@ const organizationData = [
     ]},
     {"groupName":"Industry Chair",
     "groupItems":[
-        ["Khanh Luong","Charles Sturt University"],
+        ["Khanh Luong","Queensland University of Technology and Charles Sturt University"],
     ]},
     {"groupName":"Tutorial / Workshop Chairs ",
     "groupItems":[

@@ -115,14 +115,13 @@ article .speakers{
 article .speaker{
     display: block;
     text-align: center;
-    width: 200px;
+    width: 300px;
 }
 
 article .speaker p{
     margin: auto;
     height: 180px;
     width: 180px;
-    border-radius: 50%;
     overflow: hidden;
 }
 
@@ -131,6 +130,7 @@ article .speaker img{
     height: 100%;
     object-fit: cover;
     margin: 0px;
+    border-radius: 50%;
 }
 
 article .speaker h3{
@@ -141,8 +141,98 @@ article .speaker h3{
 article .speaker h5{
     color: #666;
     margin: 5px auto;
+    text-align: center;
+    font-size: 80%;
 }
 
+article .speaker .linkedin p{
+    height: 100%;
+    display: block;
+    text-align: left;
+}
+
+article .speaker .linkedin img{
+    position: relative;
+    object-fit: contain;
+    width: 40px;
+    height: 20px;
+    border-radius: 0%;
+    left: 30%;
+}
+
+article .speaker .linkedin a{
+    position: relative;
+    left: 15%;
+    bottom: 3px;
+    font-weight: bolder;
+}
+
+
+article .panel-member{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: middle;
+    margin: 15px auto;
+
+}
+
+article .panel-member p{
+    display: block;
+    width: 70%;
+    text-align: left;
+}
+
+article .panel-member-profile{
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+article .panel-member-profile p{
+    display: block;
+    width: 200px;
+    text-align: center;
+}
+
+article .panel-member-profile h3{
+    color: #00406ae4;
+    margin: 5px auto;
+}
+
+article .panel-member-profile h5{
+    color: #666;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 80%;
+}
+
+article .panel-member img{
+    height: 180px;
+    width: 180px;
+    left: 50%;
+    transform: translateX(-50%);
+    object-fit: cover;
+    margin: 0px;
+    border-radius: 50%;
+}
+
+article .panel-member-profile .linkedin img{
+    position: relative;
+    object-fit: contain;
+    width: 40px;
+    height: 20px;
+    left: 0%;
+    transform: none;
+    border-radius: 0%;
+}
+
+article .panel-member-profile .linkedin a{
+    position: relative;
+    bottom: 3px;
+    font-weight: bolder;
+}
 
 
 article table {
@@ -168,4 +258,8 @@ article .link{
     background-color: #cddceb;
     padding: 10px;
     color: #00457d;
+}
+
+article .day-title{
+    text-align: center;
 }

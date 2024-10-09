@@ -1,70 +1,35 @@
 # Program Committee
-## Research Track
 
-Abhishek Appaji (BMS College of Engineering)
 
-Alex Peng (The University of Auckland)
-
-Brad Malin (Vanderbilt University)
-
-Dang Nguyen (Deakin University)
-
-Evan Crawford (Western Sydney University)
-
-Gang Li (Deakin University)
-
-Guilherme Weigert Cassales (University of Waikato)
-
-Hoa Nguyen (Australian National University)
-
-Jie Yang (University of Wollongong)
-
-Khanh Luong (Queensland University of Technology)
-
-Md Geaur Rahman (Charles Sturt University)
-
-Michal Ptaszynski (Kitami Institute of Technology)
-
-Nuwan Gunasekara (University of Waikato)
-
-Quang Vinh Nguyen (Western Sydney University)
-
-Rushit Dave (Minnesota State University at Mankato)
-
-Selasi Kwashie (Charles Sturt University)
-
-Sharon Torao Pingi (Queensland University of Technology)
-
-Trung Nguyen (University of Auckland)
-
-Vithya Yogarajan (University of Waikato)
+Abebe Diro (RMIT University)
 
 Warwick Graco (Analytics Shed)
 
-Weijia Zhang (The University of Newcastle)
+Hamed Jahani (RMIT University)
 
-Yang Chen (The University of Auckland)
+Shahriar Kaisar (RMIT University)
 
-Zhaoxu Xi (Upstart Network, Inc.)
+Aunsia Khan	(National University of Modern Languages (NUML RWP), Pakistan)
 
-## Application Track
-Muhammad Marwan Muhammad Fuad (Coventry University)
+Lin Li (RMIT University)
 
-M. Saqib Nawaz (Shenzhen University)
+Kwan Hui Lim (Singapore University of Technology and Design)
 
-Samaneh Madanian (Auckland University of Technology)
+Khanh Luong	(Queensland University of Technology)
 
-Minh Nguyen (Auckland University of Technology)
+Araz Nasirian (RMIT University)
 
-Yue Xu (Queensland University of Technology)
+M. Saqib Nawaz (Shenzhen Univeristy)
 
-Oliver Obst (Western Sydney University)
+Minh Nguyen	(Auckland University of Technology)
 
-Jing Ma (Auckland University of Technology)
+Zhonglin Qu	(Western Sydney University)
 
-Farnoush Falahatraftar (Polytechnique Montreal University)
+Asara Senaratne	(Flinders University)
 
-Warwick Graca (Analytics Shed)
+Tej Shahi (Queensland University of Technology)
+
+Yanfeng Shu	(CSIRO)
 
 
 

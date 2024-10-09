@@ -50,6 +50,7 @@ const templateAsideStyleContent = `
         }
         
         #countdown {
+            width:240px;
             text-align: center;
             background-color: #056eb4;
             color: #fff;

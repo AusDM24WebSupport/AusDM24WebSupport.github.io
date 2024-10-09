@@ -31,13 +31,15 @@ templateNavDoc.documentElement.innerHTML = `
                         <li><a href="./Tutorials.html">Tutorials</a></li>
                     </ul>
                 </li>-->
-                <!--<li><a href="./AI Innovation Day.html">AI Innovation Day</a></li>--!>
-                <!--<li><a href="#programme">Green & Responsible AI Day</a></li>--!>
-                <!--<li><a href="#programme">Generative AI Day</a></li>--!>
-                <li><a href="./Organizing Committee.html">Organising Committee  <i class="arrow down"></i> </a>
+                <li><a href="./Day1.html">Day 1 - Cyber Security</a></li>
+                <li><a href="./Day2.html">Day 2 - Digital Transformation</a></li>
+                <li><a href="./Day3.html">Day 3 - Environmental, Social and Governance</a></li>
+                <li><a href="./Tutorials.html">Tutorials</a></li>
+                <li><a href="./Doctoral Consortium.html">Doctoral Consortium</a></li>
+                <li><a href="./Organizing Committee.html">Committees  <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Organizing Committee.html">Organising Committee</a></li>
-                        <!--<li><a href="./Program Committee.html">Program Committee</a></li>-->
+                        <li><a href="./Program Committee.html">Program Committee</a></li>
                     </ul>
                 </li>
                 <li><a href="./Venue.html">Attending <i class="arrow down"></i> </a>
@@ -95,7 +97,7 @@ nav {
     top: 0; /* Aligns the nav bar to the top */
     width: 100%; /* Ensures the nav bar extends full width */
     z-index: 800; /* Ensures the nav bar stays on top of other elements */
-    height: 130px;
+    height: 150px;
 }
 
 .nav-container {
@@ -178,11 +180,16 @@ nav {
     }
 
     #navbar {
+        /* Existing styles */
         display: none; /* Hide the navbar items initially */
         flex-direction: column;
         width: 100%;
         margin-top: 80px;
         background: #00406ae4;
+        
+        /* Add these new styles */
+        max-height: calc(100vh - 80px); /* Adjust the maximum height */
+        overflow-y: auto; /* Enable vertical scrolling */
     }
 
     #navbar li {
@@ -319,7 +326,13 @@ class TemplateNav extends HTMLElement {
         var navElements = this.shadow.getElementById('navbar').children;
         //console.log(navElements)
         for(var element of navElements){
-            if(element.textContent.includes(this.pageName)){
+            
+            var title = element.textContent
+            if(title.includes('\n')){
+                title = title.split('\n')[0].toString().trim()
+            }
+ 
+            if(title == this.pageName){
                 element.style.color = "#d6cd47";
                 break;
             }

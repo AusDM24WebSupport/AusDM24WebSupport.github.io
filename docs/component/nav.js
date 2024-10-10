@@ -33,7 +33,7 @@ templateNavDoc.documentElement.innerHTML = `
                 </li>-->
                 <li><a href="./Day1.html">Day 1 - Cyber Security</a></li>
                 <li><a href="./Day2.html">Day 2 - Digital Transformation</a></li>
-                <li><a href="./Day3.html">Day 3 - Environmental, Social and Governance</a></li>
+                <li><a href="./Day3.html">Day 3 - ESG</a></li>
                 <li><a href="./Tutorials.html">Tutorials</a></li>
                 <li><a href="./Doctoral Consortium.html">Doctoral Consortium</a></li>
                 <li><a href="./Organizing Committee.html">Committees  <i class="arrow down"></i> </a>

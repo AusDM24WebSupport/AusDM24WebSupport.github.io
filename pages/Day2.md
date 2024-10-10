@@ -16,7 +16,7 @@
 
 ## Prof. Prem Prakash Jayaraman
 
-##### Swinburn University of Technology, Australia
+##### Swinburn University of Technology
 
 ::: linkedin
 ![Logo](./media/LinkedIn.png) [LinkedIn](https://au.linkedin.com/in/prem-prakash-jayaraman-b11772116)
@@ -33,6 +33,8 @@ The need for digital transformation is well acknowledged both locally and global
 
 ---
 
+#### Short Biography:
+
 Prof. Prem Prakash Jayaraman is a Professor in Internet of Things and Distributed Systems and Director of Swinburne’s Factory of the Future (FoF) and Digital Innovation Lab (DIL). He leads several industry-focused programs and multi million-dollar projects that focus on delivering digital transformation and uplift of Australian industries enabling them to be more efficient and locally/globally competitive. He is also the Deputy Director of the ARC Industrial Research Transformation Hub for Future Digital Manufacturing. 
 
 Prof. Jayaraman has received over $18 Million in competitive external research funding from both industry and Australian Research Council to fund his research (a significant portion of this income is to conduct industry-based research). He has published over 150 papers in several top venues including IEEE Communication and Tutorials, ACM Surveys, Transaction of Cloud Computing, Elsevier Computational Science, Transactions on LargeScale Data- and Knowledge-Centred Systems, IEEE Journal on Selected Areas in Communications, The Scientific World Journal in the related area of his research. His Google Scholar citation is 8000+ with a h-index of 46. He is also top 2% of highly-cited researchers by the influential Clarivate Analytics in 2021, 2022, 2023. He has pioneered the Internet of Things systems research area developing and deploying Industrial IoT solutions for various domains including Agriculture, Manufacturing, Food and Beverages, Mining and Health. Prof. Jayaraman has been awarded two Vice Chancellor Awards for his excellence in industry-based research and has won two best paper awards at top tier computer science conferences. 
@@ -40,7 +42,7 @@ Prof. Jayaraman has received over $18 Million in competitive external research f
 
 ::::::
 
-# Industry Panel Discussion
+# Industry Panellists / Speakers
 :::::: panel
 
 ---
@@ -124,7 +126,5 @@ Dr Behnam Atazadeh is an Australian Research Council (ARC) Discovery Early Caree
 
 
 :::::
-
----
 
 ::::::

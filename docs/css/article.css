@@ -27,6 +27,7 @@ article h1{
     font-size: 30px;
     margin: 30px 0px;
     font-family: 'Verdana', Helvetica, Arial, Lucida, sans-serif;
+    line-height: 1.5;
 }
 
 article ul{
@@ -69,8 +70,8 @@ article .images{
 article .card{
     /* background-color: rgb(207, 225, 255); */
     border-radius: 10%;
-    padding: 25px;
-    margin: 20px auto;
+    padding: 0px 25px;
+    margin: 10px auto;
 }
 
 article .card h1,
@@ -135,14 +136,13 @@ article .speaker img{
 
 article .speaker h3{
     color: #00406ae4;
-    margin: 5px auto;
+    margin: 2px auto;
 }
 
 article .speaker h5{
     color: #666;
     margin: 5px auto;
     text-align: center;
-    font-size: 80%;
 }
 
 article .speaker .linkedin p{
@@ -205,7 +205,7 @@ article .panel-member-profile h5{
     color: #666;
     margin: 5px auto;
     text-align: center;
-    font-size: 80%;
+    font-size: 100%;
 }
 
 article .panel-member img{
@@ -262,4 +262,8 @@ article .link{
 
 article .day-title{
     text-align: center;
+}
+
+article .name-list p{
+    margin: 0px;
 }

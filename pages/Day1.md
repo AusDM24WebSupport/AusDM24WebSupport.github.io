@@ -1,5 +1,5 @@
 ::: day-title
-# Day 1 - Data Science, Machine Learning, and AI in Cybersecurity
+# Day 1 - Data Science, Machine Learning, and AI in Cyber Security
 :::
 
 
@@ -7,7 +7,7 @@
 :::::: card
 
 
-# Operationalizing AI/ML for Cyber Security: Are we there yet?
+# Operationalising AI/ML for Cyber Security: Are we there yet?
 
 ::::: speakers
 
@@ -31,12 +31,14 @@ In this talk, I will address the paradox of capability and vulnerability that ar
 
 ---
 
+#### Short Biography:
+
 Dr Seyit Camtepe is a Principal Research Scientist at CSIRO's Data61. He is head of Data61’s Cyber Security Automation and Orchestration team with 20+ researchers and engineers at all levels. He is also leading the Security Automation and Orchestration theme of the Cyber Security CRC with a portfolio of more than 16 industry and government-partnered research projects. Dr Camtepe was an ECARD lecturer at the Queensland University of Technology (QUT). He was a Senior Researcher and Research Group Leader in Cyber Security at the Technische Universitaet Berlin (TU-Berlin - the first German university to adopt the name "Technische Universität"). Dr Camtepe received his PhD degree in computer science from Rensselaer Polytechnic Institute (RPI - America's oldest technological research university), New York, USA, in 2007.
 
 
 ::::::
 
-# Industry Panel Discussion
+# Industry Panellists / Speakers
 :::::: panel
 
 ---
@@ -90,28 +92,14 @@ Pramiti Bhatnagar is a seasoned professional with over twenty years of deep tech
 
 ### Dr. Sebastien Wong
 
-##### Defense Science and Technology
+##### Defence Science and Technology
 
 ::: linkedin
 ![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/sebastien-wong-5ba874109/)
 :::
 ::::
 
-Dr Sebastien Wong leads a team of scientists and engineers conducting applied research
-into computer vision within Information Sciences Division in Defence Science Technology
-Group. Sebastien holds a Bachelor of Computer Systems Engineering (with honours) from
-Curtin University, a Master of Electronic Systems Engineering and a Ph.D. in Computer
-Science, both from the University of South Australia. Sebastien also holds a Graduate
-Diploma in Scientific Leadership from the University of Melbourne and is a graduate of
-the Australian Institute of Company Directors. Sebastien has over two decades of
-experience in translating research algorithms into operational solutions for Defence,
-Mining and Agriculture. Sebastien conceived and led the creation of a multi-award
-winning AgTech product for mapping and monitoring the worlds high-value crops, which was
-used to map Australia’s vineyards. Sebastien's current team is working on problems that
-range from finding dark fishing vessels using synthetic aperture radar (SAR) imagery, to
-enhancing situational awareness for drone video operators. Sebastien is passionate about
-applying his experience in computer vision and machine learning to transform Defence by
-providing intelligent tools to decision-makers.
+Dr Sebastien Wong leads a team of scientists and engineers conducting applied research into computer vision within Information Sciences Division in Defence Science Technology Group. Sebastien holds a Bachelor of Computer Systems Engineering (with honours) from Curtin University, a Master of Electronic Systems Engineering and a Ph.D. in Computer Science, both from the University of South Australia. Sebastien also holds a Graduate Diploma in Scientific Leadership from the University of Melbourne and is a graduate of the Australian Institute of Company Directors. Sebastien has over two decades of experience in translating research algorithms into operational solutions for Defence, Mining and Agriculture. Sebastien conceived and led the creation of a multi-award winning AgTech product for mapping and monitoring the worlds high-value crops, which was used to map Australia’s vineyards. Sebastien's current team is working on problems that range from finding dark fishing vessels using synthetic aperture radar (SAR) imagery, to enhancing situational awareness for drone video operators. Sebastien is passionate about applying his experience in computer vision and machine learning to transform Defence by providing intelligent tools to decision-makers.
 
 
 :::::
@@ -134,8 +122,6 @@ providing intelligent tools to decision-makers.
 
 
 :::::
-
----
 
 ::::::
 

@@ -17,7 +17,7 @@
 
 ## Prof. Richi Nayak
 
-##### Queensland University of Technology, Australia
+##### Queensland University of Technology
 
 ::: linkedin
 ![Logo](./media/LinkedIn.png) [LinkedIn](https://au.linkedin.com/in/richi-nayak-90175a5)
@@ -34,12 +34,14 @@ One of the most urgent issues facing Australian and other First Nations peoples 
 
 ---
 
+#### Short Biography:
+
 Dr Richi Nayak is a professor at the School of Computer Science and Deputy Director of the Centre for Data Science, Faculty of Science, Queensland University of Technology, Brisbane, Australia. She is a leader in the field of machine learning with over 25 years of experience. Her research interests encompass data and text mining, deep learning, matrix and tensor factorisation, social media mining and personalisation. She has successfully overseen 25+ industry-related projects, delivering innovative machine-learning solutions adopted by industry and government sectors. She pioneered a groundbreaking data-driven machine learning-based marketing strategy automation technology, commercialised by a top-10 marketing strategy consultancy in the USA and Australia.  She also developed a deep learning-based bias detection approach commercialised by iShield.ai, aiding Fortune 500 companies in content management. In recognition of her exemplary contributions to the field of Data Analytics, she received the 2016 Women in Technology Infotech Outstanding Achievement Award
 
 
 ::::::
 
-# Industry Panel Discussion
+# Industry Panellists / Speakers
 :::::: panel
 
 ---
@@ -83,7 +85,7 @@ Mitch Tomazic is a Director in EY’s Melbourne AI & Data team. With over twenty
 
 :::::
 
----
+
 
 ::::: panel-member
 
@@ -120,8 +122,6 @@ Mitch Tomazic is a Director in EY’s Melbourne AI & Data team. With over twenty
 
 
 :::::
-
----
 
 ::::::
 

@@ -267,3 +267,18 @@ article .day-title{
 article .name-list p{
     margin: 0px;
 }
+
+article .paper-list p{
+    margin: 0px auto 0px auto;
+    font-size: medium;
+}
+
+article .paper-list h4{
+    margin: 0px;
+    color: black;
+}
+
+article .paper-list h3{
+    margin: 30px auto 0px auto;
+    font-size: medium;
+}

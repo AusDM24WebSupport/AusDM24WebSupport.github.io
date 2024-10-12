@@ -7,7 +7,7 @@
 :::::: card
 
 
-# Operationalising AI/ML for Cyber Security: Are we there yet?
+# Operationalizing AI/ML for Cyber Security: Are we there yet?
 
 ::::: speakers
 
@@ -58,27 +58,6 @@ Dr Seyit Camtepe is a Principal Research Scientist at CSIRO's Data61. He is head
 ::::
 
 Mayur is an Innovative leader in Threat Exposure Management Solutions, adept at guiding organisations through the complexities of cyber risk. As Associate Director at EY, he spearheads innovative strategies to identify, assess, and mitigate threats, ensuring clients stay resilient in the face of evolving cyber threats. With a focus on proactive threat intelligence and cutting-edge technologies, Mayur empowers teams to safeguard digital environments effectively and is dedicated to driving tangible results and fostering a culture of security excellence.
-
-
-:::::
-
----
-
-::::: panel-member
-
-:::: panel-member-profile
-![Pramiti Bhatnagar](./media/Speech/Panel/Pramiti%20Bhatnagar.jpg)
-
-### Pramiti Bhatnagar
-
-##### Microsoft
-
-::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/pramiti-bhatnagar-9b589328/)
-:::
-::::
-
-Pramiti Bhatnagar is a seasoned professional with over twenty years of deep technical experience in Microsoft technologies, including Microsoft Entra, Microsoft Purview, Microsoft Defender, Microsoft 365, Windows, and Microsoft Endpoint Manager. Pramiti holds an honours degree in Applied Psychology from the University of Delhi and has numerous technical certifications, such as Certified Information Privacy Manager, Microsoft Certified: Cybersecurity Architect Expert, and Project Management Professional (PMP). Currently, Pramiti serves as a Principal Product Manager for Microsoft Entra where she primarily focuses on Copilot for Security and Entra External Identities. Pramiti has also held various roles at Microsoft, including Global Black Belt, Cloud Solution Architect and Partner Technology Strategist.
 
 
 :::::

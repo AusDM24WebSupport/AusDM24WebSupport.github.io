@@ -49,18 +49,18 @@ Dr Richi Nayak is a professor at the School of Computer Science and Deputy Direc
 ::::: panel-member
 
 :::: panel-member-profile
-![Tarek Rana](./media/Speech/Panel/Tarek%20Rana.jpg)
+![Gillian Vesty](./media/Speech/Panel/Gillian%20Vesty.jpg)
 
-### Assoc. Prof. Tarek Rana
+### Prof. Gillian Vesty
 
 ##### RMIT University
 
 ::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/drtarekrana/)
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/gillian-vesty-78755125)
 :::
 ::::
 
-Dr Tarek Rana is an Associate Professor of Accounting at RMIT University, Melbourne, Australia. Tarek earned a Ph.D. at the UNSW Australia, an MBA from University of Saskatchewan, and BCom (Hons.) and MCom from University of Dhaka, Bangladesh. He teaches and researches at the intersection of accounting and digitalization with focus on risk management, performance measurement, public management, and sustainability. His research works have earned recognition, such as Dean’s award and College's award for research excellence. He has edited many research books and guest-edited special issues in reputed journals. He has published in reputable accounting and management research journals including: Accounting Auditing & Accountability Journal, British Accounting Review, Financial Accountability & Management, Public Money & Management, Business Strategy and the Environment, Intelligent Systems in Accounting, Finance and Management, Meditari Accountancy Research, Qualitative Research in Accounting & Management, Sustainability Accounting, Management and Policy Journal; Journal of Intellectual Capital, Journal of Accounting & Organizational Change, International Journal of Managerial and Financial Accounting. Further to his academic record, he is Chartered Accountant and brings a professional record of accomplishment including partnership in accounting firms, board membership, and governance experience as both executive and non-executive director. 
+Gillian Vesty is a Professor and Deputy Dean L&T in the School of Accounting, Information Systems and Supply Chain at RMIT University, Melbourne, Australia. She is RMIT College of Business and Law, AACSB Assurance of Learning Coordinator.  Gillian is a member of CPA Australia, a Board Member of IMA ANZ chapter. Her research interests seek to align management accounting’s performance evaluation and strategic budgeting with social impact research that address health and wellbeing challenges from an environmental and value-based healthcare perspective. Gillian is an active Board Member of Games for Change, Asia Pacific, fostering the nexus between simulated artefacts in the form of serious games to provide a powerful vehicle for ongoing experimental research. Gillian is on the editorial board of Accounting Auditing and Accountability Journal.  
 
 
 :::::

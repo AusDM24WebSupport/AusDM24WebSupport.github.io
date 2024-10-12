@@ -54,7 +54,7 @@ const organizationData = [
     {"groupName":"Local Organising Chairs",
     "groupItems":[
         ["Araz Nasirian","RMIT University"],
-        ["Lin Li","RMIT University"]
+        ["Lin Li","Southern Cross University"]
     ]},
     {"groupName":"Sponsorship Chair",
     "groupItems":[

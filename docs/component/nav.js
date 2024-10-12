@@ -23,14 +23,14 @@ templateNavDoc.documentElement.innerHTML = `
                         <li><a href="./Special Sessions.html">Special Sessions</a></li>--!>
                     </ul>
                 </li>
-                <!--<li><a href="./Programme Overview.html">Programme <i class="arrow down"></i> </a>
+                <li><a href="#">Program <i class="arrow down"></i> </a>
                     <ul class="submenu">
-                        <li><a href="./Programme Overview.html">Programme Overview</a></li>
                         <li><a href="./Accepted Papers.html">Accepted Papers</a></li>
+                        <!--<li><a href="./Programme Overview.html">Programme Overview</a></li>
                         <li><a href="./Keynote Sessions.html">Keynote Sessions</a></li>
-                        <li><a href="./Tutorials.html">Tutorials</a></li>
+                        <li><a href="./Tutorials.html">Tutorials</a></li>-->
                     </ul>
-                </li>-->
+                </li>
                 <li><a href="./Day1.html">Day 1 - Cyber Security</a></li>
                 <li><a href="./Day2.html">Day 2 - Digital Transformation</a></li>
                 <li><a href="./Day3.html">Day 3 - ESG</a></li>

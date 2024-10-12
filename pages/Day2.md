@@ -26,7 +26,6 @@
 :::::
 
 
-
 #### Abstract:
 
 The need for digital transformation is well acknowledged both locally and globally. While Industry 4.0 has paved significant inroads to support this transformation it is still an emerging area for many organisations (especially Small to Medium Businesses). In this talk, I will introduce key concepts of Industry 4.0 and the emerging Industry 5.0 paradigm that aid Human Centric Digital Transformation. Through a series of real-world digital transformation industry case studies in the areas of manufacturing and smart cities I will highlight key research in the area of Human Centric Digital Transformation. I will conclude the talk by identifying open research opportunities and challenges. 

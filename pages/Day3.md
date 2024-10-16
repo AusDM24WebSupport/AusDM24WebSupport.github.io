@@ -20,7 +20,7 @@
 ##### Queensland University of Technology
 
 ::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn](https://au.linkedin.com/in/richi-nayak-90175a5)
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/richi-nayak-90175a5)
 :::
 
 ::::
@@ -85,22 +85,24 @@ Mitch Tomazic is a Director in EY’s Melbourne AI & Data team. With over twenty
 
 :::::
 
-
+---
 
 ::::: panel-member
 
 :::: panel-member-profile
+![Rakesh Singh](./media/Speech/Panel/Rakesh%20Singh.jpg)
 
-![]()
+### Rakesh Singh
 
-### 
-
-##### 
+##### Oracle
 
 ::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn]()
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/rakesh-singh-melbourne/)
 :::
 ::::
+
+Rakesh Singh is an Enterprise Architect in the Customer Strategy team at Oracle Corporation. His work at Oracle bridges the gap between business and technology by combining a deep understanding of technologies, applications, best practices, and architectural patterns to drive digital transformation initiatives that meet business objectives for his customers. Throughout his career, Mr. Singh has worked with a diverse range of customers, from large enterprises to small organisations. His experience spans Federal and State Government agencies, major banks, and small non-profits, demonstrating his versatility in applying technological solutions across various sectors and organisational scales. In addition to his primary role, Rakesh serves as the lead for the Sustainability Community of Practice at Oracle JAPAC. This community brings together people and ideas to work towards a sustainable future using technology. Through this initiative, Rakesh fosters collaboration and innovation, leveraging technological solutions to address pressing environmental and sustainability challenges. Rakesh brings a unique blend of technical expertise, strategic vision, and commitment to sustainability in driving digital transformation and sustainable practices in the corporate world. 
+
 
 :::::
 

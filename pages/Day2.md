@@ -19,7 +19,7 @@
 ##### Swinburn University of Technology
 
 ::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn](https://au.linkedin.com/in/prem-prakash-jayaraman-b11772116)
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/prem-prakash-jayaraman-b11772116)
 :::
 
 ::::

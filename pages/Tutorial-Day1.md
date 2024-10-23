@@ -1,4 +1,4 @@
-# Tutorial
+# Tutorial - Day 1
 :::::: card
 
 # Human Centred Explainable AI: Principles, Guidelines and Practical Examples
@@ -14,7 +14,7 @@
 ##### CSIRO's Data61
 
 ::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn](https://au.linkedin.com/in/ronal-singh-3b09a238)
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/ronal-singh-3b09a238)
 :::
 
 ::::

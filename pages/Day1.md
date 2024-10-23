@@ -88,17 +88,18 @@ Dr Sebastien Wong leads a team of scientists and engineers conducting applied re
 ::::: panel-member
 
 :::: panel-member-profile
-![Monica Whitty]()
+![Maggie Liu](./media/Speech/Panel/Maggie%20Liu.jpg)
 
-### Prof. Monica Whitty
+### Dr. Maggie Liu
 
-##### Monash University
+##### RMIT University
 
 ::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/monica-whitty-34383a90/)
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/xiaoning-maggie-liu-79777316a/)
 :::
 ::::
 
+Dr Xiaoning (Maggie) Liu is a Lecturer (aka Assistant Professor) at the School of Computing Technologies, RMIT University, Australia. Her research pivots on data privacy and security related to machine learning, cloud computing, and digital health. Her current focus is on designing practical secure multiparty computation protocols and systems to its applications in privacy-preserving machine learning. She earned her Ph.D. in Computer Science degree in 2022 from RMIT University. In the past few years, her work has appeared in prestigious venues in computer security, such as IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Information Forensics and Security (TIFS), USENIX Security Symposium, and European Symposium on Research in Computer Security (ESORICS). Her research has been supported by Australian Research Council, and CSIRO. She is the recipient of the Best Paper Award of ESORICS 2021.
 
 :::::
 

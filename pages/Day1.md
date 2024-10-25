@@ -103,6 +103,26 @@ Dr Xiaoning (Maggie) Liu is a Lecturer (aka Assistant Professor) at the School o
 
 :::::
 
+---
+
+::::: panel-member
+
+:::: panel-member-profile
+![Guru Hegde](./media/Speech/Panel/Guru%20Hegde.png)
+
+### Guru Hegde
+
+##### Microsoft
+
+::: linkedin
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/guruhegde/)
+:::
+::::
+
+Guru is technical specialist in Data and AI at Microsoft.  He has background in Engineering and has worked with Microsoft IT and Research and has patents in the area of touchless input algorithms. He engages with customers, understanding their requirements, and helping them architect and achieve business benefits on the Azure cloud.   
+
+:::::
+
 ::::::
 
 

@@ -39,6 +39,7 @@ footer {
     padding-top: 10px;
     border-top: 10px solid transparent;
     box-shadow: 0 -5px 5px 2px rgba(156, 156, 156, 0.5);
+    width:100%;
 }  
 
 .foot-container {

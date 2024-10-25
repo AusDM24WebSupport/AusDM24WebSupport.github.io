@@ -103,7 +103,7 @@ const templateAsideStyleContent = `
         }
         
         /* Responsive adjustments */
-        @media screen and (max-width: 1200px) {
+        @media screen and (max-width: 1300px) {
             aside {
                 display: none;
             }

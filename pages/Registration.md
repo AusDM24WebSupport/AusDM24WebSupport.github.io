@@ -27,7 +27,7 @@ Please also note the following terms and conditions: 
 
 - Each accepted paper requires at least one Non-Student Full Registration by Monday 30 Sept (11.59pm, AoE) for paper to be included in the conference proceedings. If you have more than one accepted paper, you have to register for each paper individually. 
 
-- Early bird fee will close by Sunday 27 Oct (11.59pm, AEDT). 
+- Early bird fee will close by ~Sunday 27 Oct~ Sunday 17 Nov (11.59pm, AEDT). 
 
 - To request for an invitation letter, please reach out to [ausdmconference@gmail.com](mailto:ausdmconference@gmail.com).   
 

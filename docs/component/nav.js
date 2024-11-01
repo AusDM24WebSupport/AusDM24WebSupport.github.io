@@ -26,8 +26,8 @@ templateNavDoc.documentElement.innerHTML = `
                 <li><a href="#">Program <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Accepted Papers.html">Accepted Papers</a></li>
-                        <!--<li><a href="./Programme Overview.html">Programme Overview</a></li>
-                        <li><a href="./Keynote Sessions.html">Keynote Sessions</a></li>
+                        <li><a href="./Conference Program.html">Conference Program</a></li>
+                        <!--<li><a href="./Keynote Sessions.html">Keynote Sessions</a></li>
                         <li><a href="./Tutorials.html">Tutorials</a></li>-->
                     </ul>
                 </li>
@@ -57,7 +57,7 @@ templateNavDoc.documentElement.innerHTML = `
                 </li>
                 <li><a href="./Registration.html">Registration</a></li>
                 <!--<li><a href="./Sponsorship.html">Sponsorship</a></li>-->
-                <!--<li><a href="#programme">Call For Papers: Special Issue</a></li>--!>
+                <li><a href="./Journal Special Issue.html">Journal Special Issue</a></li>
                 <!--<li><a href="#programme">Gallery</a></li>--!>
                 <!-- Add additional navbar items here -->
             </ul>

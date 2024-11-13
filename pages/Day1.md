@@ -7,19 +7,19 @@
 :::::: card
 
 
-# Operationalizing AI/ML for Cyber Security: Are we there yet?
+# Securing Graph Neural Networks in MLaaS
 
 ::::: speakers
 
 :::: speaker
-![Seyit Camtepe](./media/Speech/KeyNote/Seyit%20Camtepe.jpg)
+![Seyit Camtepe](./media/Speech/KeyNote/Xingliang%20Yuan.jpg)
 
-## Dr. Seyit Camtepe
+## A/P. Xingliang Yuan
 
-##### CSIRO's Data61
+##### The University of Melbourne
 
 ::: linkedin
-![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/camtepe/)
+![Logo](./media/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/xlyuan/)
 :::
 
 ::::
@@ -27,13 +27,13 @@
 
 #### Abstract:
 
-In this talk, I will address the paradox of capability and vulnerability that arises when adopting a new technology for use in cyber security. Although AI/ML offers significant advantages, the capabilities demonstrated in controlled environments with synthetic custom datasets may not directly translate to operational settings and actual noisy data generated in those environments, potentially creating new vulnerabilities that adversaries can exploit. I will share my experiences operationalizing AI/ML for various security challenges, such as threat hunting and incident response, highlighting real-life implications for critical infrastructures, government, and industry.
+Graph Neural Networks (GNNs) extend the benefits of deep learning to graph data. In practice, their applications span from common utilities such as recommendation systems and fraud detection, to advanced domains such as drug discovery and physics simulation. Due to the increasing popularity of GNNs, commercial Machine Learning as a Service (MLaaS) platforms have integrated graph learning development tools for launching GNN services on the cloud, e.g., Amazon SageMaker integrated DGL. Despite the convenience and low cost of model development and deployment, such service is facing critical security challenges. In this talk, I will first overview the architecture of GNNs in MLaaS and elaborate on practical threats against privacy and integrity of GNNs. Then I will present our recent effort in detecting and counteracting training data misuse in GNNs. Along the line, I will also pinpoint open problems and future directions in this area. 
 
 ---
 
 #### Short Biography:
 
-Dr Seyit Camtepe is a Principal Research Scientist at CSIRO's Data61. He is head of Data61’s Cyber Security Automation and Orchestration team with 20+ researchers and engineers at all levels. He is also leading the Security Automation and Orchestration theme of the Cyber Security CRC with a portfolio of more than 16 industry and government-partnered research projects. Dr Camtepe was an ECARD lecturer at the Queensland University of Technology (QUT). He was a Senior Researcher and Research Group Leader in Cyber Security at the Technische Universitaet Berlin (TU-Berlin - the first German university to adopt the name "Technische Universität"). Dr Camtepe received his PhD degree in computer science from Rensselaer Polytechnic Institute (RPI - America's oldest technological research university), New York, USA, in 2007.
+Xingliang Yuan is currently an Associate Professor in the School of Computing and Information Systems, the University of Melbourne. Before that, he was a faculty member at Monash University from 2017-2024. He has a keen interest in designing systems and protocols to address real-world privacy and security challenges. His research has been supported by the Australian Research Council, CSIRO, Australian Department of Home Affairs, Australian Department of Health and Aged Care, and the Oceania Cyber Security Centre. His work has been published in major venues of computer security and systems, such as CCS, S&P, USENIX Security, NDSS, TDSC, TIFS, etc. He is a recipient of the Dean's Award for Excellence in Research by an Early Career Researcher (2020), and the Faculty Teaching Excellence Award (2021). He is a co-recipient of the best paper award in the European Symposium on Research in Computer Security 2021. He is on the editorial board of IEEE Transactions on Dependable and Secure Computing and IEEE Transactions on Service Computing. He is a track co-chair of ICDCS'24, PST'24, and program co-chair of SecTL'23 and NSS'22. He is an ARC future fellow and a senior member of IEEE. 
 
 
 ::::::

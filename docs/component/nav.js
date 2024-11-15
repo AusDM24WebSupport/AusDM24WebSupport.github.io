@@ -52,7 +52,7 @@ templateNavDoc.documentElement.innerHTML = `
                 <li><a href="./Venue.html">Attending <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Venue.html">Venue</a></li>
-                        <!--<li><a href="./Accommodation">Accommodation</a></li>--!>
+                        <li><a href="https://www.melbcruises.com.au/dining-experiences/">Conference Dinner Cruise</a></li>
                     </ul>
                 </li>
                 <li><a href="./Registration.html">Registration</a></li>

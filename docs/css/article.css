@@ -59,6 +59,10 @@ article img{
     
 }
 
+article ol{
+    margin: 10px 20px;
+}
+
 article .images{
     display: flex;
     flex-direction: row;

@@ -61,6 +61,15 @@ main {
     }
 }
 
+@media screen and (max-width: 800px) {
+    .main-container {
+        width: 95%;
+        margin: auto;
+        margin-top: 10px;
+    }
+}
+
+
 
 
 .small-title-background-image {

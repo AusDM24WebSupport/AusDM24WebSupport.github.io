@@ -154,7 +154,7 @@ class TemplateAside extends HTMLElement {
     
         if (distance < 0) {
             clearInterval(interval);
-            this.shadow.getElementById("timer").innerHTML = "Event has started!";
+            this.shadow.getElementById("timer").innerHTML = "Our conference has started!";
         }
     }
 
